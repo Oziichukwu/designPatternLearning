@@ -1,11 +1,10 @@
-package designPatterns.strategyPattern;
+package designPatterns.strategyPattern.strategyPatternUsingAnimals;
 
 public interface Flys {
 
     String fly();
 
 }
-
 class ItFlys implements Flys {
 
     @Override
