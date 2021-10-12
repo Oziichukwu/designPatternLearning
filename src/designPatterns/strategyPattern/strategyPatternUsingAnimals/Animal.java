@@ -1,4 +1,6 @@
-package designPatterns.strategyPattern;
+package designPatterns.strategyPattern.strategyPatternUsingAnimals;
+
+import designPatterns.strategyPattern.strategyPatternUsingAnimals.Flys;
 
 public class Animal {
 
