@@ -1,4 +1,4 @@
-package designPatterns.strategyPattern;
+package designPatterns.strategyPattern.strategyPatternUsingAnimals;
 
 public class AnimalMain {
 
