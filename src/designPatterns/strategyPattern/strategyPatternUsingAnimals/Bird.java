@@ -1,11 +1,4 @@
 package designPatterns.strategyPattern.strategyPatternUsingAnimals;
 
-public class Bird extends Animal{
-
-    public Bird(){
-
-        super();
-
-        flyingType = new ItFlys();
-    }
+public class Animal {
 }
