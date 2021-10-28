@@ -1,2 +1,6 @@
-package designPatterns.strategyPattern.strategyPatternUsingAnimals;public interface Movable {
+package designPatterns.strategyPattern.strategyPatternUsingAnimals;
+
+public interface Movable {
+
+    String move();
 }
